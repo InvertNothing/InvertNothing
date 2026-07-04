@@ -24,6 +24,6 @@ Nothing Else
 
 # When Will I Release Some Of My Work
 
-When Theyre Finished And My Friends Test Themw
+When Theyre Finished And My Friends Test Them
 
 End
