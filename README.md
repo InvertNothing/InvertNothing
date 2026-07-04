@@ -11,6 +11,10 @@ Script
 
 Python
 
+C++
+
+C#
+
 Thats It
 Nothing Else
 
